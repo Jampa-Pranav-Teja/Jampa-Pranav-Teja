@@ -1,118 +1,123 @@
 <h1 align="center">Hi 👋, I'm Pranav Teja</h1>
-<h3 align="center">Aspiring Machine Learning Engineer | Competitive Programmer</h3>
+<h3 align="center">Machine Learning Enthusiast | Aspiring ML Engineer</h3>
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
-
-</div>
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350">
+</p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-🎓 Computer Science Student (9.87 CGPA)  
-💻 Learning Machine Learning & Data Science  
-🧠 Solving LeetCode problems daily  
-📊 Building real-world ML projects  
-🎯 Goal: ML/Data Science Internship by 3rd Year  
-🔥 Target: Top Product-Based Companies
+🎓 Computer Science Student with **9.87 CGPA**
+
+📚 Currently learning:
+- Machine Learning
+- Deep Learning
+- Data Science
+- DSA & Problem Solving
+
+💡 I enjoy building real-world Machine Learning projects and improving my skills every day.
+
+🎯 Goal:
+- Become a Machine Learning Engineer
+- Get ML/Data Science Internship
+- Build impactful AI projects
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
-- Python 🐍
+**Languages**
+- Python
 - C++
 - Java
 - SQL
 
-### Machine Learning
+**Machine Learning**
 - NumPy
 - Pandas
 - Matplotlib
 - Seaborn
-- Scikit-learn
+- Scikit-Learn
 
-### Tools
+**Tools**
 - Jupyter Notebook
 - Google Colab
 - Git & GitHub
 - VS Code
 
-### Currently Learning
-
-- Machine Learning Algorithms
-- Data Analysis
-- Feature Engineering
-- Model Optimization
+**ML Project Stack**
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Flask
+- Pickle
+- HTML
+- CSS
 
 ---
 
-## 📂 Featured Projects
+## 📂 Projects
 
 ### 🏠 House Price Prediction
-- Built a regression model to predict house prices
-- Used real-world dataset
-- Applied feature engineering
-- Trained multiple ML models
+Machine Learning model to predict house prices using real-world dataset.
+
+Features:
+- Data Cleaning
+- Feature Engineering
+- Model Training
+- Model Evaluation
 
 Tech Used:
-Python, Pandas, Numpy, Scikit-learn, Matplotlib
+Python, Pandas, NumPy, Scikit-Learn, Matplotlib
 
 ---
 
 ### 🎓 Student Dropout Prediction
-- Predicted student dropout risk
-- Data preprocessing and visualization
-- Classification models
+Classification model to predict student dropout risk.
 
-Tech Used:
-Python, Pandas, Seaborn, Scikit-learn
-
----
-
-### 📊 Data Analysis Projects
-- Exploratory Data Analysis
+Features:
+- Data preprocessing
 - Visualization
-- Data Cleaning
+- Model training
+- Prediction
 
 Tech Used:
-Python, Pandas, Matplotlib
+Python, Pandas, Seaborn, Scikit-Learn
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true">
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME">
 </p>
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 Current Focus
 
-✔ Solve 300+ LeetCode Problems  
-✔ Build 6 Machine Learning Projects  
-✔ Get Data Science Internship  
-✔ Master Machine Learning Fundamentals
+✔ Machine Learning Projects  
+✔ DSA Practice  
+✔ Data Analysis  
+✔ Internship Preparation
 
 ---
 
 ## 📫 Connect With Me
 
-📧 Email: your@email.com  
-💼 LinkedIn: Your LinkedIn Link
+LinkedIn: YOUR LINKEDIN LINK  
+Email: YOUR EMAIL
 
 ---
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="450"/>
-
-</div>
+<p align="center">
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="450">
+</p>
