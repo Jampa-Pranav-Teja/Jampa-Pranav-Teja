@@ -1,180 +1,73 @@
-<div align="center" style="position: relative;">
+## Hi, I'm Pranav 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:007BFF&height=200&section=header&text=Pranav%20Teja&fontSize=50&fontColor=ffffff" width="100%" />
+I am a Computer Science student with a CGPA of **9.87 🎓**, focused on Machine Learning and Data Science. I enjoy building practical machine learning projects and continuously improving my problem-solving skills.
 
-</div>
-
-<div align="center">
-
-<h3>Machine Learning Enthusiast | Data Science Learner | CSE Student</h3>
-
-<br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
-  <img src="https://img.shields.io/github/followers/YOURUSERNAME?label=Followers&style=for-the-badge&color=4A90E2"/>
-
-  <img src="https://img.shields.io/badge/CGPA-9.87-blue?style=for-the-badge"/>
-
-</p>
-
-</div>
+Currently, I am working towards becoming a **Machine Learning Engineer 🤖** by building real-world projects and gaining internship experience.
 
 ---
 
-# 👨‍💻 About Me
+### 🛠 Skills
 
-- 🎓 BTech Computer Science Student
-- 📊 **CGPA: 9.87 / 10**
-- 🤖 Focused on **Machine Learning & Data Science**
-- 💻 Practicing **DSA Daily**
-- 🚀 Building **Real-world ML Projects**
-- 🎯 Goal → Become a Machine Learning Engineer
-
----
-
-# 🧠 Tech Stack & Skills
-
-### Programming
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+- Python
+- Machine Learning (Scikit-learn)
+- Pandas & NumPy
+- Data Cleaning & Preprocessing
+- Data Visualization (Matplotlib, Seaborn)
+- Model Evaluation
+- Basic SQL
 
 ---
 
-### Machine Learning
+### ⚙️ Tech Stack
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
----
-
-### Deployment Stack
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- Python 🐍
+- Pandas & NumPy
+- Scikit-learn
+- Matplotlib & Seaborn 📊
+- Jupyter Notebook
+- Git & GitHub
 
 ---
 
-# 🧩 Competitive Programming
+### 📂 Machine Learning Projects
 
-<div align="center">
+- **House Price Prediction** 🏠  
+  Built regression models to predict housing prices using real-world datasets with feature engineering and model comparison.
 
-<img src="https://leetcard.jacoblin.cool/YOURLEETCODE?theme=dark&font=Ubuntu&ext=heatmap"/>
+- **Student Dropout Prediction** 🎓  
+  Developed a classification model to identify students at risk of dropping out using structured data.
 
-<br>
+- **Diabetes Prediction** 🏥  
+  Created a health risk prediction model using classification algorithms and evaluation metrics.
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](YOURLEETCODELINK)
+- **Customer Churn Prediction** 📉  
+  Built models to predict customer churn and analyzed important features affecting churn.
 
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](YOURCODECHEFLINK)
+- **Loan Approval Prediction** 💳  
+  Developed a classification system to predict loan approvals based on applicant information.
 
-</div>
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOURUSERNAME&theme=github_dark" width="90%"/>
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOURUSERNAME&theme=github_dark" width="32%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOURUSERNAME&theme=github_dark" width="32%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOURUSERNAME&theme=github_dark&utcOffset=5.5" width="32%" />
-
-</div>
+- **NLP / Text Classification Project** 🧠  
+  Built a text classification model using machine learning techniques.
 
 ---
 
-# 🚀 Featured Machine Learning Projects
+### 📚 Currently Learning
 
-
-### 🏠 House Price Prediction
-
-Machine Learning model to predict house prices.
-
-**Features**
-
-- Data Cleaning
-- Feature Engineering
-- Model Training
-- Predictions
-
-**Stack**
-
-Python, Pandas, NumPy, Scikit-Learn
+- Machine Learning using Python
+- Deep Learning fundamentals
+- Data Structures and Algorithms
+- Generative AI and LLM applications
 
 ---
 
-### 📊 Customer Churn Prediction
+### 🎯 Goals
 
-Predict whether customers leave a service.
-
-**Features**
-
-- Data preprocessing
-- Visualization
-- ML models
-
-**Stack**
-
-Python, Pandas, Scikit-Learn
+- Gain Machine Learning internship experience
+- Build strong real-world ML projects
+- Become a Machine Learning Engineer
 
 ---
 
-### 🎓 Student Dropout Risk Prediction
+### 💻 GitHub Focus
 
-Predict students at risk of dropping out.
-
-**Features**
-
-- Data Analysis
-- Feature Engineering
-- Classification Models
-
-**Stack**
-
-Python, Pandas, Scikit-Learn
-
----
-
-# 🎯 Current Focus
-
-- Machine Learning
-- Data Science
-- DSA
-- Internships
-
----
-
-# 📫 Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-
-</div>
-
----
-
-<div align="center">
-
-⭐ Building Machine Learning Projects Every Week ⭐
-
-</div>
+This GitHub profile contains my Machine Learning projects and coding practice as I progress toward becoming an ML Engineer.
