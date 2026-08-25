@@ -53,11 +53,7 @@ I am a 3rd-year CS student focused on building intelligent end-to-end applicatio
 ### 📊 Github Overview
 
 <p align="center">
-  <a href="https://github.com/Jampa-Pranav-Teja">
-    <img src="https://img.shields.io/github/followers/Jampa-Pranav-Teja?label=Followers&style=for-the-badge&color=238636" alt="Followers" />
-    <img src="https://img.shields.io/github/stars/Jampa-Pranav-Teja?label=Stars&style=for-the-badge&color=238636" alt="Stars" />
-    <img src="https://img.shields.io/badge/Repos-Public-238636?style=for-the-badge" alt="Repos" />
-  </a>
+  <a href="https://github.com/Jampa-Pranav-Teja"><img src="https://img.shields.io/github/followers/Jampa-Pranav-Teja?label=Followers&style=for-the-badge&color=238636" alt="Followers" /></a> <a href="https://github.com/Jampa-Pranav-Teja"><img src="https://img.shields.io/github/stars/Jampa-Pranav-Teja?label=Stars&style=for-the-badge&color=238636" alt="Stars" /></a> <a href="https://github.com/Jampa-Pranav-Teja"><img src="https://img.shields.io/badge/Repos-Public-238636?style=for-the-badge" alt="Repos" /></a>
 </p>
 
 ---
