@@ -2,7 +2,7 @@
 
 🎓 **Computer Science Student** | **AI, Machine Learning & Full-Stack Developer**
 
-I am a 3rd-year CS student focused on building intelligent end-to-end applications. Currently mastering Machine Learning fundamentals via CodeChef and Full-Stack & AI Engineering via Scrimba.
+I am a 3rd-year CS student focused on building intelligent end-to-end applications. Currently mastering Machine Learning fundamentals and Full-Stack & AI Engineering.
 
 ---
 
@@ -17,7 +17,7 @@ I am a 3rd-year CS student focused on building intelligent end-to-end applicatio
 
 ---
 
-### 🤖 Machine Learning Projects (CodeChef)
+### 🤖 Machine Learning Projects
 
 | Project Title | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
@@ -28,7 +28,7 @@ I am a 3rd-year CS student focused on building intelligent end-to-end applicatio
 
 ---
 
-### 🌐 Full-Stack Web Projects (Scrimba)
+### 🌐 Full-Stack Web Projects
 
 | Project Title | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
@@ -39,7 +39,7 @@ I am a 3rd-year CS student focused on building intelligent end-to-end applicatio
 
 ---
 
-### ⚡ AI Engineering Projects (Scrimba)
+### ⚡ AI Engineering Projects
 
 | Project Title | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
