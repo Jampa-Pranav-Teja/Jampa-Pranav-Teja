@@ -8,12 +8,15 @@ I am a 3rd-year CS student focused on building intelligent end-to-end applicatio
 
 ### 🛠️ Skills & Tech Stack
 
-- **Languages:** Python, JavaScript, TypeScript, SQL, HTML5, CSS3
-- **AI & Machine Learning:** NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn, Neural Networks, LLMs
-- **AI Engineering:** OpenAI API, LangChain, RAG Systems, Vector Databases, Context Engineering, Prompt Engineering
-- **Frontend Development:** React.js, Next.js, Tailwind CSS, Vite, Web Components
-- **Backend & Databases:** Node.js, Express.js, PostgreSQL, Supabase, REST APIs
-- **Tools & DevOps:** Git, GitHub, Docker, Command Line (Bash), Vercel
+- **Languages:** Python, C, Java
+- **Data Analytics:** PowerBI, Excel
+- **AI & Machine Learning:** NumPy, Pandas, Scikit-Learn, Matplotlib
+- **AI Engineering:** OpenAI API, Context Engineering, Prompt Engineering, AI Automation using n8n
+- **Frontend Development:** React.js, Web Components, Asynchronous JavaScript, HTML, CSS, BootStrap
+- **Backend:** Node.js, Express.js, REST APIs
+- **Databases:** Supabase, SQL, FireBase, MongoDB
+- **Tools & DevOps:** Git, GitHub, Docker, Command Line (Bash), Vercel, Jira, Trello
+- **AI Tools:** ChatGPT, Gemini Gems, Lovable, AI Studio, V0.dev, Gamma.ai
 
 ---
 
