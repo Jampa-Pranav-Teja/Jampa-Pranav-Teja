@@ -27,7 +27,7 @@ I'm a third-year Computer Science student who learns by shipping. I build full-s
 **Currently:**
 - 🔨 Building the **URL Shortener** (React + Express + MongoDB)
 - 📚 Working through a **Full Stack Projects Using MERN** practice course (24 problems)
-- 🧠 Learning **Machine Learning** fundamentals and **AI Engineering** (LLM apps, prompt and context engineering)
+- 🧠 Learning **Machine Learning** fundamentals and **AI Engineering** (LLM apps, RAG, fine-tuning, AI agents)
 
 ---
 
@@ -52,10 +52,25 @@ I'm a third-year Computer Science student who learns by shipping. I build full-s
 | :--- | :--- | :--- | :--- |
 | **[LinkedIn Auto-Poster](#)** | Modular posting system: takes input from a form or Telegram, generates AI copy, uploads multiple images, tags URLs, and publishes to LinkedIn | `n8n` `LinkedIn API` `Telegram` `LLM` | ✅ Completed |
 | **[Market News Alert Bot](#)** | Watches Indian NSE/BSE stock news, uses an AI agent to judge relevance, checks price data and a budget filter, then sends Telegram alerts | `n8n` `AI Agent` `Groq` `RSS` `Telegram` | ✅ Completed |
+| **[AI Brochure Generator](#)** | Scrapes and navigates a company website intelligently, then generates a brochure from what it finds | `Python` `LLM APIs` `Web Scraping` | 🔄 In Progress |
+| **[Multi-Modal Airline Support Agent](#)** | Customer support agent for an airline with a chat UI and function-calling | `Python` `LLM APIs` `Function Calling` | ⏳ Planned |
+| **[Meeting Minutes Generator](#)** | Turns meeting audio into minutes and action items using open- and closed-source models | `Python` `Hugging Face` `LLM APIs` | ⏳ Planned |
+| **[Python to C++ Code Converter](#)** | AI tool that converts Python code into optimized C++ for large speedups | `Python` `C++` `LLM APIs` | ⏳ Planned |
+| **[RAG Knowledge Worker](#)** | AI assistant that answers questions about a company's documents using retrieval-augmented generation | `Python` `RAG` `Vector DB` | ⏳ Planned |
+| **[Product Price Predictor (Capstone A)](#)** | Predicts product prices from short descriptions using frontier models | `Python` `LLM APIs` | ⏳ Planned |
+| **[Fine-Tuned Price Predictor (Capstone B)](#)** | Fine-tunes an open-source model to compete with frontier models on price prediction | `Python` `Fine-Tuning` `Hugging Face` | ⏳ Planned |
+| **[Autonomous Deal Hunter (Capstone C)](#)** | Multi-agent system that spots bargains and notifies you of special deals | `Python` `AI Agents` `RAG` | ⏳ Planned |
 
 ### 🤖 Machine Learning
 
-🚧 Projects coming soon: supervised learning, classification/regression on real datasets, and clustering.
+| Project | What it does | Tech | Status |
+| :--- | :--- | :--- | :--- |
+| **[Loan Approval Prediction](#)** | Predicts whether a loan application will be approved from applicant data (classification) | `Python` `Pandas` `Scikit-Learn` | ⏳ Planned |
+| **[Bangalore House Price Prediction](#)** | Predicts house prices from location, size and other features (regression) | `Python` `Pandas` `Scikit-Learn` `Matplotlib` | ⏳ Planned |
+| **[Email Spam Classifier](#)** | Classifies emails as spam or not spam using text features | `Python` `Scikit-Learn` `NumPy` | ⏳ Planned |
+| **[Movie Review Sentiment Analyzer](#)** | Detects whether a movie review is positive or negative (NLP) | `Python` `Scikit-Learn` `Pandas` | ⏳ Planned |
+| **[Clustering & Dimensionality Reduction](#)** | Groups data with unsupervised learning and reduces dimensions to visualize patterns | `Python` `NumPy` `Scikit-Learn` `Matplotlib` | ⏳ Planned |
+| **[Ride Cancellation Prediction](#)** | Predicts ride cancellations from real-world booking data | `Python` `Pandas` `Scikit-Learn` | ⏳ Planned |
 
 ---
 
@@ -91,6 +106,9 @@ I'm a third-year Computer Science student who learns by shipping. I build full-s
 ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0A66C2?style=flat-square)
 ![Context Engineering](https://img.shields.io/badge/Context%20Engineering-0A66C2?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-0A66C2?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-0A66C2?style=flat-square)
+![LLM Fine-Tuning](https://img.shields.io/badge/LLM%20Fine--Tuning-0A66C2?style=flat-square)
 
 **Machine Learning & Data**
 
